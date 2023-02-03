@@ -29,5 +29,3 @@ At the moment, I'm a coder from planet Earth.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="48" height="48"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="46" height="46"/>&nbsp;
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thnkslprpt&theme=tokyonight_duo)](https://git.io/streak-stats)
