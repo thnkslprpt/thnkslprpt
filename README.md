@@ -9,7 +9,7 @@ In past lives I was a professional soldier, a financial analyst and an astronome
 
 At the moment, I'm a coder from planet Earth.  
 
-#### My favorite languages + tools :
+#### Favorite languages + tools :
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" width="50" height="50"/>&nbsp;
