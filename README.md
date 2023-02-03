@@ -22,7 +22,6 @@ At the moment, I'm a coder from planet Earth.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" title="Visual Studio" alt="Visual Studio" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="48" height="48"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TUX_G2.svg/163px-TUX_G2.svg.png" title="Linux" alt="Linux" width="50" height="54"/>&nbsp;
   <img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" title="CLion" alt="CLion" width="46" height="46"/>&nbsp;
