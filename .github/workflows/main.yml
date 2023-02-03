@@ -27,7 +27,7 @@ jobs:
           # Options
           user: thnkslprpt
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, metadata
           config_timezone: Australia/Brisbane
           plugin_followup: yes
           plugin_followup_archived: yes
