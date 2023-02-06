@@ -5,7 +5,7 @@
 ### About Me :
 In past lives I was a professional soldier, a financial analyst and an astronomer.  
 
-At the moment, I'm a coder.  
+At the moment, I'm a programmer.  
 
 #### Favorite languages & tools :
 
